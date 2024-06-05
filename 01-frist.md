@@ -2,4 +2,4 @@
 
 sample content 1
 
-![Covered Call](./public/covered-call.avif)
+![Covered Call](https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/covered-call.avif)
