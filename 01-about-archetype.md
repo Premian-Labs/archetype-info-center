@@ -11,7 +11,11 @@ Additionally, Archetype natively incorporates smart accounts for easy DeFi onboa
 * [**Smart Accounts:**](https://info-center-4) A secure alternative to traditional browser wallets that enable social login, bundled transactions, and other seamless user operations.
 
 <p align="center">
-  <img src="public/01-about-archetype.png"/>
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/01-about-archetype.png" alt="archetype-dark" class="dark-only"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/01-about-archetype-light.png" alt="archetype-light" class="light-only"/>
 </p>
 
 > :shield: **The Archetypical DeFi Protocol:**
