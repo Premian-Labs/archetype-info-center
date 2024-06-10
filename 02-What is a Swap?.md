@@ -11,5 +11,5 @@ The swapping of digital assets on a blockchain is facilitated via smart contract
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/02-what-is-a-swap-light.png" alt="swap-light" class="dark-only"/>
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/02-what-is-a-swap-light.png" alt="swap-light" class="light-only"/>
 </p>
