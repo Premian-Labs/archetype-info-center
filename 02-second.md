@@ -2,7 +2,5 @@
 
 sample content 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/covered-call.avif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/covered-put.avif">
-</picture>
+<img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/covered-call.avif" alt="covered-call" class="dark-only" />
+<img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/covered-put.avif" alt="covered-put" class="light-only" />
