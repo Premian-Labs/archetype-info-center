@@ -8,9 +8,9 @@ Our roadmap includes integrating more DeFi primitives throughout Archetype's dev
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/01-about-archetype.png" alt="archetype-dark" class="dark-only"/>
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/01-about-archetype-dark.png" alt="archetype-dark" class="dark-only"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/01-about-archetype-light.png" alt="archetype-light" class="light-only"/>
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/01-about-archetype-light.png" alt="archetype-light" class="light-only"/>
 </p>
