@@ -1,4 +1,4 @@
-# What is Archetype?
+## What is Archetype?
 
 **Archetype** is a swap aggregator that combines derivatives, core DeFi primitives and yield under the same user-friendly platform. Users can swap to- and from any token on Arbitrum with an optional price protection feature for select tokens while earning XP.
 
