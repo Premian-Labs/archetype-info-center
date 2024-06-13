@@ -11,3 +11,7 @@ Archetype natively integrates Premia Blue as the options back-end for Price Prot
 <p align="center">
   <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/05-what-is-price-protection-dark.png" alt="price-protection-dark" class="dark-only"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/05-what-is-price-protection-light.png" alt="price-protection-light" class="light-only"/>
+</p>
