@@ -7,3 +7,7 @@ When executing a swap with Price Protection, the received token receives cushion
 Behind the scenes, Price Protection purchases a put option within the same transaction, which provides downside protection on the received token. For those familiar with options strategies, Price Protection is similar to a strategy known as a protective put.
 
 Archetype natively integrates Premia Blue as the options back-end for Price Protection. To learn more about options and Premia Blue, visit the [Premia Academy](https://academy.premia.blue/).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/05-what-is-price-protection-dark.png" alt="price-protection-dark" class="dark-only"/>
+</p>
