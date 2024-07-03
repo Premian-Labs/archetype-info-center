@@ -2,7 +2,7 @@
 
 Price Protection is an optional feature that helps users safeguard their token exchanges from sudden drops in value.
 
-When using Price Protection, tokens received are shielded against price decreases for a selected period. This feature works by purchasing a put option during the transaction, which acts as insurance against the token's value falling. 
+When using Price Protection, received tokens are shielded against price decreases for a selected period. This feature works by purchasing a put option during the transaction, which acts as insurance against the token's value falling. 
 
 Archetype integrates Premia Blue for handling these options. To learn more about options and Premia Blue, visit the [Premia Academy](https://academy.premia.blue/).
 
