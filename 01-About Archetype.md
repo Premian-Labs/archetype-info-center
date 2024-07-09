@@ -1,6 +1,6 @@
 ## What is Archetype?
 
-**Archetype** is a swap aggregator that combines Smart Accounts, Price Protection and optimal execution under the same user-friendly platform. Users can swap any token on Arbitrum with an optional Price Protection feature for select tokens while earning XP.
+**Archetype** is a decentralized finance (DeFi) hub that combines swaps, core DeFi primitives and smart accounts under the same user-friendly platform. Users can swap to- and from any token on Arbitrum with an optional Price Protection feature for select tokens while earning XP.
 
 Archetype natively integrates secure and convenient [_Safe_](https://safe.global/) smart accounts for easy DeFi onboarding, sponsored transactions, and social recovery features.
 
