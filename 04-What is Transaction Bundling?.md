@@ -6,4 +6,4 @@ This enables new tools and features that would normally be too complicated to ex
 
 Price Protection is an example of a feature directly enabled by transaction bundling. With this feature enabled, Archetype bundles swaps with a put option purchase transaction.
 
-With transaction bundling, only your imagination is the limit. More to come soon.
+More features utilizing transaction bundling are in development. Only your imagination is the limit. 
