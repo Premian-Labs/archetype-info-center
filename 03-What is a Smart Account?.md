@@ -2,6 +2,8 @@
 
 Smart Accounts are a secure and more convenient alternative to traditional browser wallets. Using a Smart Account enables things like Price Protection, social login, and gasless transactions. Think of your Smart Accounts as sub-accounts that are controlled by your browser wallet.
 
+Instead of posting transactions like you normally would using browser wallets, Smart Accounts allow you to sign simple messages to approve actions on Archetype. Convenient!
+
 Additionally, Smart Accounts unlock sponsored transactions, meaning your transactions on Archetype are completely on us. Archetype will eventually begin amassing transaction fees, so enjoy it while you can.
 
 <p align="center">
