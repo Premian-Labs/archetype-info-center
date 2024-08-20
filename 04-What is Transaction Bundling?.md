@@ -4,6 +4,6 @@ Transaction bundling is a system that simplifies and condenses complex actions f
 
 This enables new tools and features that would normally be too complicated to execute, all while reducing overall transaction costs for users. 
 
-Price Protection is an example of a feature directly enabled by transaction bundling. With this feature enabled, Archetype bundles swaps with a put option purchase transaction.
+Directional Price Protection is an example of a feature directly enabled by transaction bundling. With this feature enabled, Archetype bundles swaps with a put option purchase transaction.
 
 More features utilizing transaction bundling are in development. Only your imagination is the limit. 
