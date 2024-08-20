@@ -7,9 +7,9 @@ When using Downside Protection, received tokens are shielded against price decre
 Archetype integrates Premia Blue for handling these options. To learn more about options and Premia Blue, visit the [Premia Academy](https://academy.premia.blue/).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/05-downside-price-protection-dark.png" alt="price-protection-dark" class="dark-only"/>
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/Article-Price-Protection-Calculation/public/diagrams/05-downside-price-protection-dark.png" alt="price-protection-dark" class="dark-only"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/master/public/diagrams/05-downside-price-protection-light.png" alt="price-protection-light" class="light-only"/>
+  <img src="https://raw.githubusercontent.com/Premian-Labs/archetype-info-center/Article-Price-Protection-Calculation/public/diagrams/05-downside-price-protection-light.png" alt="price-protection-light" class="light-only"/>
 </p>
